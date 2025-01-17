@@ -1,6 +1,7 @@
 # Chatroom in C
 
 This project implements a chatroom application in C using socket programming and multithreading. The server can handle multiple clients simultaneously, allowing users to send and receive messages in real-time. The server uses threads to manage communication with each connected client.
+![A server connected to three clients](picture/pic.png)
 
 ## Features
 
@@ -26,5 +27,5 @@ This project implements a chatroom application in C using socket programming and
 3. To create and connect clients do following
    ```bash
    ./client <port> <ip>
-4. Leave <port> and <ip> empty if using on the same machine
+4. Leave port and ip empty if using on the same machine
 
