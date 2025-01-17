@@ -27,5 +27,6 @@ This project implements a chatroom application in C using socket programming and
 3. To create and connect clients do following
    ```bash
    ./client <port> <ip>
-4. Leave port and ip empty if using on the same machine
+ 4.Leave port and ip empty if using on the same machine
 
+5.To exit a client type exit in chat and to close the server type close in server
