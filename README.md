@@ -20,7 +20,7 @@ This project implements a chatroom application in C using socket programming and
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/chatroom.git
+   git clone https://github.com/Shashwat-11/chatroom_in_c
 2. Use the following command to run the server
    ```bash
    ./server <port>
